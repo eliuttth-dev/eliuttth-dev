@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliuth Bompart</h1>
 <h3 align="center">Ultra Master Pro Developer</h3>
 
-- 🔭 I’m currently working on [Random Sh*t Scanned](https://curious-kleicha-dcfd5e.netlify.app/home)
+- 🔭 I’m currently working on [Random Sh*t Scanned](https://randomshitscanned.com/home)
 
 - 🌱 I’m currently learning **DevOps**
 
