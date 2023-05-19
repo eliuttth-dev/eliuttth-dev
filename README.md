@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Tailwind and vanilla Javascript**
 
-- 📫 How to reach me **eliuth.bompart.contact@gmail.com**
+- 📫 How to reach me **eliuttth@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eliuth-bompart-in/](https://www.linkedin.com/in/eliuth-bompart-in/)
 
